@@ -1,0 +1,25 @@
+{
+    "questions": [
+      {
+        "id": "sustain_question_1",
+        "question":"5S seems to be the way of life rather than a routine",
+        "uresponse": "yes",
+        "unotes": "na",
+        "uasset": "na"
+      },
+      {
+        "id": "sustain_question_2",
+        "question":"Success stories are being displayed (i.e., before and after)",
+        "uresponse": "no",
+        "unotes": "not at all",
+        "uasset": "image location"
+      },
+      {
+        "id": "sustain_question_3",
+        "question":"Rewards and recognition is part of the 5S system",
+        "uresponse": "yes",
+        "unotes": "na",
+        "uasset": "na"     
+      }
+    ]
+  }
